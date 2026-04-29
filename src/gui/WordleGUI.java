@@ -3,6 +3,9 @@ package gui;
 import javax.swing.JFrame;
 
 public class WordleGUI {
+    /**
+     * Creates a new WordleGUI.
+     */
     public WordleGUI() {
         JFrame f = new JFrame("Wordle GUI");
         f.setDefaultCloseOperation(JFrame.EXIT_ON_CLOSE);
